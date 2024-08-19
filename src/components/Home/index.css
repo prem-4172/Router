@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.home {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto;
+  color: #555555;
+}
+.home-img {
+  height: 500px;
+  width: 500px;
+}

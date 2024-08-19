@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.contact {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto;
+  color: #555555;
+}
+.contact-img {
+  height: 30px;
+  width: 50px;
+}
